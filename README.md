@@ -12,3 +12,6 @@ pip install -r requirements.txt
 팀원1 : 모도원, 담당분야 : 알고리즘 개발
 팀원2 : 권순형, 담당분야 : 로그인
 팀원3 : 이미옥, 담당분야 : 게시판
+
+# 수정1
+print("why so serious")
